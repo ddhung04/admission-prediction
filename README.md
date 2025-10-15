@@ -1,7 +1,7 @@
 # predicting-registration-trends
 
-## Cài đặt
+## Setup
 pip install -r requirements.txt
 
-## Chạy
+## Run
 python model_predict.py
